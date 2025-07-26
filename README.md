@@ -320,12 +320,6 @@ def predict_fraud(transaction_features):
 - [XGBoost Documentation](https://xgboost.readthedocs.io/)
 - [imbalanced-learn Documentation](https://imbalanced-learn.org/)
 
-### Code Style
-- Follow PEP 8 for Python code
-- Add docstrings for all functions
-- Include type hints where applicable
-- Maintain test coverage >80%
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
